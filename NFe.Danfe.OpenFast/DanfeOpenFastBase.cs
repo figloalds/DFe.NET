@@ -3,6 +3,7 @@ using FastReport.Export.Html;
 using FastReport.Export.Image;
 using FastReport.Export.PdfSimple;
 using System;
+using System.Drawing;
 using System.IO;
 
 namespace NFe.Danfe.OpenFast
